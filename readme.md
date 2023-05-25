@@ -184,6 +184,6 @@ Dart                     3 repos             ██░░░░░░░░░�
 </div>
 
 ------
-Credits: [manumanoj0010](https://github.com/manumanoj0010)
+Credits: [jantsandorj](https://github.com/manumanoj0010)
 
 Last Edited on: 15/01/2021

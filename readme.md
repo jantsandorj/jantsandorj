@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Jantsandorj](http://manumanoj.me/)
+## Hey 👋, I'm [Jantsandorj]
 
 
 

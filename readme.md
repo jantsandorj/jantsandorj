@@ -71,21 +71,11 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jantsandorj&show_icons=true&locale=en&layout=compact" alt="jantsandorj" /></p>
 
-<details>
- <summary><b>💥 Github Activity</b></summary>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jantsandorj&show_icons=true&locale=en" alt="jantsandorj" /></p>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/jantsandorj/Website/pull/4) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-2. 🎉 Merged PR [#2](https://github.com/Sahiti-Dev/Website/pull/2) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-3. ❌ Closed PR [#1](https://github.com/Sahiti-Dev/Website/pull/1) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-4. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
-4. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
-4. 🎉 Merged PR [#2](https://github.com/manumanoj0010/Real-EState-Website/pull/2) in [manumanoj0010/Real-EState-Website](https://github.com/manumanoj0010/Real-EState-Website)
-5. 🎉 Merged PR [#3](https://github.com/manumanoj0010/Javascript-Applications/pull/3) in [manumanoj0010/Javascript-Applications](https://github.com/manumanoj0010/Javascript-Applications)
-<!--END_SECTION:activity-->
-
-</details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jantsandorj&" alt="jantsandorj" /></p>
 
 
 

@@ -15,50 +15,56 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 - 🌐 Visit my [porfolio website](https://manumanoj.me) for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume](https://manumanoj.me/Resume.pdf).
 
-<h2> 🛠 &nbsp;My Tech Stack</h2>
+## My Skill Set 👩‍💻
 
- <a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="python" width="30" height="30"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images/javascript.png" alt="javascript" width="30" height="30"/> </a>   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="images/typescript.png" alt="typescript" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank"> <img src="images/php.png" alt="php" width="30" height="30"/> </a> <a href="https://angular.io" target="_blank"><img src="images/angular.png" alt="angularjs" width="30" height="30"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="images/bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="30" height="30"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="50" height="50"/> </a>  <a href="https://flutter.dev" target="_blank"> <img src="images/flutter.png" alt="flutter" width="30" height="30"/></a>  <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank"> <img src="images/postgresql.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/> </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="30" height="30"/> </a>  <a href="https://firebase.google.com/" target="_blank"> <img src="images/firebase.png" alt="firebase" width="30" height="30"/> </a> <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="images/kali.png" alt="linux" width="30" height="30"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a><a href="https://unity.com/" target="_blank"> <img src="images/unity.png" alt="unity" width="30" height="30"/> </a> 
+<table><tr><td valign="top" width="33%">
 
-<details>	
-  <summary><b>Programming Languages</b></summary>
- <a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="python" width="30" height="30"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images/javascript.png" alt="javascript" width="30" height="30"/> </a>   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="images/typescript.png" alt="typescript" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank"> <img src="images/php.png" alt="php" width="30" height="30"/> </a> 
-</details>
 
-<details>	
-  <summary><b>Frontend Development</b></summary>
-  <a href="https://angular.io" target="_blank"><img src="images/angular.png" alt="angularjs" width="30" height="30"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="images/bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="30" height="30"/> </a>  
-</details>
 
-<details>	
-  <summary><b>Mobile App Developement (beginner)</b></summary>
-  <a href="https://flutter.dev" target="_blank"> <img src="images/flutter.png" alt="flutter" width="30" height="30"/></a><i></i>
-</details>
+### Frontend  
+   
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+</div>
 
-<details>	
-  <summary><b>Backend Developement</b></summary>
-  <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="50" height="50"/> </a>
-</details>
+</td><td valign="top" width="33%">
 
-<details>	
-  <summary><b>Databases</b></summary>
- <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="40" height="40"/></a><a href="https://www.postgresql.org" target="_blank"> <img src="images/postgresql.png" alt="postgresql" width="40" height="40"/> </a>
-</details>
 
-<details>	
-  <summary><b>Frameworks</b></summary>
-   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/> </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="30" height="30"/> </a> 
-</details>
 
-<details>	
-  <summary><b>Backend as a Service (BaaS) </b></summary>
-   <a href="https://firebase.google.com/" target="_blank"> <img src="images/firebase.png" alt="firebase" width="30" height="30"/> </a> <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="30" height="30"/> </a>
-  </details>
+### Backend
+   
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+</div>
 
-<details>	
-  <summary><b>Others</b></summary>
-  <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="images/kali.png" alt="linux" width="30" height="30"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a><a href="https://unity.com/" target="_blank"> <img src="images/unity.png" alt="unity" width="30" height="30"/> </a> 
-</details>
+</td><td valign="top" width="33%">
 
+
+
+### DevOps  
+   
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+</div>
+</td></tr></table>  
+<br/>  
+<br/>
+<div align="center">
+<img src="https://bloggingcoder.com/images/categories/mern.jpg" align="center" style="width: 100%; height:70% " />
+</div>  
+<br/>  
+<br/>
 <h2>ℹ️ &nbsp;Github Info</h2>
 <details>	
   <summary><b>⚡ Github Stats</b></summary>

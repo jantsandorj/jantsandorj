@@ -70,10 +70,9 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jantsandorj" alt="manumanoj0010" /></p>
 </details>
 
-<details>
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manumanoj0010&margin-w=5" alt="manumanoj0010" /></a> </p>
-</details>
+
+
+
 
 <details>
  <summary><b>💥 Github Activity</b></summary>

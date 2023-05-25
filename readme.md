@@ -58,24 +58,23 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <h2>ℹ️ &nbsp;Github Info</h2>
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.manumanoj0010.vercel.app/api?username=manumanoj0010&show_icons=true&locale=en&hide_border=true" alt="manumanoj0010" />
-<img height="180em" src="https://github-readme-stats.manumanoj0010.vercel.app/api/top-langs?username=manumanoj0010&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jantsandorj&show_icons=true&locale=en&layout=compact" alt="jantsandorj" /></p>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jantsandorj&show_icons=true&locale=en" alt="jantsandorj" /></p>
 </details>
 
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jantsandorj" alt="manumanoj0010" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jantsandorj&" alt="jantsandorj" /></p>
 </details>
 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jantsandorj&show_icons=true&locale=en&layout=compact" alt="jantsandorj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jantsandorj&show_icons=true&locale=en" alt="jantsandorj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jantsandorj&" alt="jantsandorj" /></p>
+
+
+
 
 
 

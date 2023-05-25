@@ -67,7 +67,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <details>
  <summary><b>🔥 Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manumanoj0010&" alt="manumanoj0010" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jantsandorj" alt="manumanoj0010" /></p>
 </details>
 
 <details>

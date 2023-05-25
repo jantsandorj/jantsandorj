@@ -12,8 +12,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 - 👨💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in web development 🕸️
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs
-- 🌐 Visit my [porfolio website](https://manumanoj.me) for complete background and contact.
-- 📝 &nbsp; Checkout my [Resume](https://manumanoj.me/Resume.pdf).
 
 ## My Skill Set 👩‍💻
 

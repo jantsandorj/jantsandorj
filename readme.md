@@ -47,12 +47,26 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-
+   ### DevOps  
+   
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+</div>
+</td></tr></table>  
 <br/>  
 <br/>
+<div align="center">
+<img src="https://bloggingcoder.com/images/categories/mern.jpg" align="center" style="width: 100%; height:70% " />
+</div>  
+<br/>  
+<br/>
+
+
+
+
+
 <h2>ℹ️ &nbsp;Github Info</h2>
 <details>	
   <summary><b>⚡ Github Stats</b></summary>

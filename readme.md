@@ -9,7 +9,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 ### More about me:
 
-- 👨💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in web development 🕸️
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs
 
